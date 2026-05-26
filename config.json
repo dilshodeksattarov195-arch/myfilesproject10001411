@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfncrypt",
+        "uuid": 7052178,
+        "checksum": "574xjh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
